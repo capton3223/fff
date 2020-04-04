@@ -81,9 +81,7 @@ Caso persista alguma dúvida sobre este documento entre em contato através do e
 
 18 - É completamente proibido burlar o plano free criando 2 contas no Discord para assim ter 2 bots hospedados em nossa plataforma, caso pego todos os bots serão deletados e sua conta adicionada a Blacklist.
 
-19 -   É proibido automatizar contas de usuário normais da Discord \(geralmente chamadas de "self-bots"\).
-
-
+19 - É proibido automatizar contas de usuário normais da Discord \(geralmente chamadas de "self-bots"\).
 
 `Este documento é uma adaptação dos Termos de Serviço do Google App Engine. O trabalho original foi modificado. Google, Inc. não possui vínculo e não patrocina ou endossa a DisCloud ou o seu uso da obra.`
 

@@ -4,7 +4,7 @@ description: Módulo para ler métricas do cgroup de contêineres modernos Linux
 
 # Módulos Status
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../../.gitbook/assets/image-25.png)
 
 ## Informações
 
@@ -46,7 +46,7 @@ console.log(tr) //1GB
 {% endtab %}
 
 {% tab title="🐍Python" %}
-### Instalação do módulo 
+### Instalação do módulo
 
 ```bash
 $ pip install discloud
@@ -73,6 +73,4 @@ print(tr) # 1GB
 [https://pypi.org/project/discloud/](https://pypi.org/project/discloud/)
 {% endtab %}
 {% endtabs %}
-
-
 

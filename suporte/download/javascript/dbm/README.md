@@ -1,8 +1,8 @@
 ---
-description: Aprenda a hospedar seu bot do Discord Bot Maker na DisCloud
+description: Aprenda a Como Injetar Uma Dll Hacker Corretamente
 ---
 
-# Discord Bot Maker
+# Como Injetar Uma Dll Hacker
 
 {% hint style="info" %}
 Créditos ao [Cap](https://discordapp.com/users/293860296542388234) pelo tutorial apresentado
@@ -36,7 +36,7 @@ Créditos ao [Cap](https://discordapp.com/users/293860296542388234) pelo tutoria
 Na última atualização **1.5.9 do DBM** agora existe também a pasta extensions e events, compacte elas se você usa alguma extension ou event da pasta no seu bot!
 {% endhint %}
 
-![](../../../../.gitbook/assets/image%20%2842%29.png)
+![](../../../../.gitbook/assets/image-42.png)
 
 > Caso não saiba compactar os arquivos, visite nossa FAQ:
 
@@ -45,8 +45,6 @@ Na última atualização **1.5.9 do DBM** agora existe também a pasta extension
 ## ✍ Hospedando o seu Bot na DisCloud
 
 Você pode aprender a hospedar seu Bot na versão website ou Discord
-
-{% page-ref page="../../../como-hospedar/website.md" %}
 
 {% page-ref page="../../../como-hospedar/discord.md" %}
 

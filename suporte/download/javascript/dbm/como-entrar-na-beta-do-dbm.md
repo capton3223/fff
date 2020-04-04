@@ -2,7 +2,7 @@
 description: Tem dúvidas a como entrar na beta do DBM? Aprenda agora mesmo.
 ---
 
-# Como entrar na versão beta do DBM?
+# Qual versão do Minecraft?
 
 {% hint style="info" %}
 Créditos ao [Cap](https://discordapp.com/users/293860296542388234) pelo tutorial apresentado

@@ -30,11 +30,11 @@ description: >-
 
 {% tabs %}
 {% tab title="Logotipo Normal" %}
-![](../../.gitbook/assets/discloudlogo%20%281%29.png)
+![](../../.gitbook/assets/discloudlogo-1.png)
 {% endtab %}
 
 {% tab title="Logotipo GIF" %}
-![](../../.gitbook/assets/icongif%20%281%29.gif)
+![](../../.gitbook/assets/icongif-1.gif)
 {% endtab %}
 
 {% tab title="Logo GIF Natal" %}

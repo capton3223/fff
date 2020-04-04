@@ -6,9 +6,9 @@ Selecione os arquivos necessários \(dito nos tutoriais\), aperte com botão dir
 
 ![](../.gitbook/assets/exemplo.gif)
 
-{% page-ref page="../suporte/linguagens/javascript/" %}
+{% page-ref page="../suporte/download/javascript/" %}
 
-{% page-ref page="../suporte/linguagens/python/" %}
+{% page-ref page="../suporte/download/python.md" %}
 
 ## Linux
 
