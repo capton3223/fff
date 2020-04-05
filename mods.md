@@ -18,7 +18,15 @@
 
 {% file src=".gitbook/assets/sumo-client.rar" caption="Sumo Client" %}
 
-{% file src=".gitbook/assets/styles-client.rar" caption="Styles Client" %}
+{% file src=".gitbook/assets/vene.rar" caption="Vene" %}
+
+{% file src=".gitbook/assets/uboa.rar" caption="Uboa" %}
+
+{% file src=".gitbook/assets/incognito.rar" caption="Incognito" %}
+
+{% file src=".gitbook/assets/vape.rar" caption="Vape v3" %}
+
+{% file src=".gitbook/assets/azurya.rar" caption="Azuryan" %}
 
 
 
