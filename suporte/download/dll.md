@@ -12,9 +12,21 @@ Créditos ao [MagnataEffects](https://absolutproject.com) pelo tutorial apresent
 
 ## Process Hacker + DLL Hacker
 
-## ✍faça o do Process Hacker [Downloads](https://processhacker.sourceforge.io/downloads.php)
+## ✍faça o do Process Hacker [Download](https://processhacker.sourceforge.io/downloads.php)
 
 ![](../../.gitbook/assets/baixo-o-prosse-hacker.gif)
+
+🗃 agora extraia seu Process Hacker
+
+![](../../.gitbook/assets/extraisd.gif)
+
+🗃 agora abra seu Process Hacker e injetar a dll hack. 
+
+![](../../.gitbook/assets/ggg.gif)
+
+{% hint style="success" %}
+Se você seguiu os passo então a instalação do hack foi um sucesso !
+{% endhint %}
 
 {% hint style="info" %}
 Você pode aprender a instalar sua dll no  [Discord]()
