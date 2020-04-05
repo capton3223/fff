@@ -14,7 +14,7 @@
 ## 📥Download
 
 * [📁GHOST VERSION](ghost-version.md)
-* [📁Software](software.md)
+* [📁SOFTWARE](software.md)
 * [📁.EXE](.exe.md)
 * [📁BAT](bat.md)
 * [📁REGEDIT](regedit.md)
