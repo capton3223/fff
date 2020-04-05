@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Bem-Vindo](README.md)
-* [Termos de Serviço](terms.md)
 
 ## Suporte
 
@@ -16,5 +15,7 @@
 
 ## Download
 
+* [Bat](bat.md)
+* [Regedit](regedit.md)
 * [Ghost Client](untitled.md)
 
