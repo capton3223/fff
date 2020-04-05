@@ -6,7 +6,7 @@
 ## Suporte
 
 * [Doações](suporte/doacoes.md)
-* [Discord](https://discloudbot.com/)
+* [Discord](https://discordapp.com/invite/NVhVT8n)
 * [Aprenda como Instalar .](suporte/download/README.md)
   * [📦Dll Hacker](suporte/download/javascript/README.md)
     * [Como Injetar Uma Dll Hacker](suporte/download/javascript/dbm/README.md)
