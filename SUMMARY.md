@@ -15,7 +15,8 @@
 
 ## Download
 
-* [Bat](bat.md)
-* [Regedit](regedit.md)
-* [Ghost Client](untitled.md)
+* [.EXE](.exe.md)
+* [BAT](bat.md)
+* [REGEDIT](regedit.md)
+* [DLL](untitled.md)
 
