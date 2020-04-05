@@ -12,7 +12,7 @@ Créditos ao [Capton](https://www.youtube.com/channel/UCV6PwoUmkN5l-zf-kL7k9lw?v
 
 ## Process Hacker + DLL Hacker
 
-## ✍faça o do Process Hacker [Download](https://processhacker.sourceforge.io/downloads.php)
+## ✍faça o [Download](https://processhacker.sourceforge.io/downloads.php) do Process Hacker 
 
 ![](../../.gitbook/assets/baixo-o-prosse-hacker.gif)
 
