@@ -15,6 +15,7 @@
 
 ## Download
 
+* [Software](software.md)
 * [.EXE](.exe.md)
 * [BAT](bat.md)
 * [REGEDIT](regedit.md)
