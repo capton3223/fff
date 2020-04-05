@@ -13,6 +13,7 @@
 
 ## 📥Download
 
+* [📁GHOST VERSION](ghost-version.md)
 * [📁Software](software.md)
 * [📁.EXE](.exe.md)
 * [📁BAT](bat.md)
