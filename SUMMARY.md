@@ -4,12 +4,12 @@
 
 ## Suporte
 
+* [Doações](suporte/doacoes.md)
+* [Discord](https://discordapp.com/invite/NVhVT8n)
 * [Aprenda como Instalar .](suporte/download/README.md)
   * [📦Como Injetar Uma Dll Hacker](suporte/download/dll.md)
   * [🐍Como Injetar Um .Exe Hacker Corretamente](suporte/download/python.md)
   * [☕Como instalar Um Mods Hacker na .minecraft](suporte/download/java.md)
-* [Discord](https://discordapp.com/invite/NVhVT8n)
-* [Doações](suporte/doacoes.md)
 
 ## 📥Download
 
