@@ -4,8 +4,6 @@ description: Bem-vindo a documentação oficial da Leak Brasil
 
 # Bem-Vindo
 
-> Documentação é o conjunto de todos **documentos**, que são **todas as fontes** contendo informações que ajudem a tomar decisões, comuniquem decisões tomadas e **registrem assuntos de interesse da organização**.
-
 ## 📜 Informações
 
 Somos uma plataforma de Download baseada em contêiner flexível, gratuita oferecemos aos Membros uma forma simples e rápida de fazer download do seus Ghost , Regedit,Bat,Software etc... sem qualquer tipo de problema
