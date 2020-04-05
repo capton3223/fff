@@ -11,11 +11,11 @@
 * [Discord](https://discordapp.com/invite/NVhVT8n)
 * [Doações](suporte/doacoes.md)
 
-## Download
+## 📥Download
 
-* [Software](software.md)
-* [.EXE](.exe.md)
-* [BAT](bat.md)
-* [REGEDIT](regedit.md)
-* [DLL](untitled.md)
+* [📁Software](software.md)
+* [📁.EXE](.exe.md)
+* [📁BAT](bat.md)
+* [📁REGEDIT](regedit.md)
+* [📁DLL](untitled.md)
 
