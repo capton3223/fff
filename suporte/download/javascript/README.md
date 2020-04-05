@@ -17,10 +17,8 @@ Antes de tudo, **não envie todos os arquivos** de uma vez, você precisará col
 ## ✍ Hospedando o seu bot
 
 {% hint style="info" %}
-Você pode aprender a hospedar seu bot na [versão website]() ou [Discord](../../como-hospedar/discord.md)
+Você pode aprender a hospedar seu bot na [versão website]() ou [Discord]()
 {% endhint %}
-
-{% page-ref page="../../como-hospedar/discord.md" %}
 
 ## ✅ Finalizado
 

@@ -14,7 +14,7 @@ description: Aprenda a hospedar seu bot em Python na DisCloud
 **Quaisquer outros arquivos que seja necessário em seu Bot sem ser esses dois podem ser adicionados**. \(Isso vale para as cogs também\).
 {% endhint %}
 
-{% page-ref page="../../faq/qual-o-arquivo-principal.md" %}
+{% page-ref page="../../download/qual-o-arquivo-principal.md" %}
 
 ## Requirements
 
@@ -29,7 +29,7 @@ Ex.: **`import PIL`** mas você instala usando **`pip install pillow`**, logo de
 
 • Faça um **`.zip`** com os arquivos.
 
-{% page-ref page="../../faq/como-compactar-zipar-os-meus-arquivos.md" %}
+{% page-ref page="../../download/como-compactar-zipar-os-meus-arquivos.md" %}
 
 ![Exemplo no Windows](../../.gitbook/assets/image-13.png)
 
@@ -38,8 +38,6 @@ Ex.: **`import PIL`** mas você instala usando **`pip install pillow`**, logo de
 {% hint style="info" %}
 Escolha o método para hospedar seu Bot na Discloud:
 {% endhint %}
-
-{% page-ref page="../como-hospedar/discord.md" %}
 
 ## ✅ Finalizado <a id="finalizado"></a>
 

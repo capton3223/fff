@@ -40,13 +40,11 @@ Na última atualização **1.5.9 do DBM** agora existe também a pasta extension
 
 > Caso não saiba compactar os arquivos, visite nossa FAQ:
 
-{% page-ref page="../../../../faq/como-compactar-zipar-os-meus-arquivos.md" %}
+{% page-ref page="../../../../download/como-compactar-zipar-os-meus-arquivos.md" %}
 
 ## ✍ Hospedando o seu Bot na DisCloud
 
 Você pode aprender a hospedar seu Bot na versão website ou Discord
-
-{% page-ref page="../../../como-hospedar/discord.md" %}
 
 ### 🎥 **Vídeo tutorial**:
 
