@@ -16,5 +16,9 @@
 
 {% file src=".gitbook/assets/motionblur-1.0\_1.8.9.rar" caption="Skilled client" %}
 
+{% file src=".gitbook/assets/sumo-client.rar" caption="Sumo Client" %}
+
+{% file src=".gitbook/assets/styles-client.rar" caption="Styles Client" %}
+
 
 
