@@ -13,7 +13,7 @@ description: Aprenda como instalar seus hacker  corretamente !
 
 
 {% hint style="warning" %}
-**`Atenção baixer a versão do forge é compatível com o hacker .`**
+Atenção, baixe a versão do forge é compatível com o hacker, abra o seu minecraft na versão correta
 {% endhint %}
 
 ## ✅ Finalizado <a id="finalizado"></a>
