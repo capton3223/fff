@@ -14,8 +14,6 @@ description: Aprenda a hospedar seu bot em Python na DisCloud
 **Quaisquer outros arquivos que seja necessário em seu Bot sem ser esses dois podem ser adicionados**. \(Isso vale para as cogs também\).
 {% endhint %}
 
-{% page-ref page="../../download/qual-o-arquivo-principal.md" %}
-
 ## Requirements
 
 O `requirements.txt` deve conter as bibliotecas usadas no seu Bot, por padrão, deve no mínimo conter a livraria `discord.py`, caso use a livraria `disco-py` basta substituir.
@@ -28,8 +26,6 @@ Ex.: **`import PIL`** mas você instala usando **`pip install pillow`**, logo de
 ## Preparando seu Bot para enviar para a Discloud
 
 • Faça um **`.zip`** com os arquivos.
-
-{% page-ref page="../../download/como-compactar-zipar-os-meus-arquivos.md" %}
 
 ![Exemplo no Windows](../../.gitbook/assets/image-13.png)
 
