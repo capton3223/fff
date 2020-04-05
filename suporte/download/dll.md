@@ -5,7 +5,7 @@ description: Aprenda como instalar seus hacker  corretamente !
 # 📦Como Injetar Uma Dll Hacker
 
 {% hint style="info" %}
-Créditos ao [MagnataEffects](https://absolutproject.com) pelo tutorial apresentado
+Créditos ao [Capton](https://www.youtube.com/channel/UCV6PwoUmkN5l-zf-kL7k9lw?view_as=subscriber) pelo tutorial apresentado
 {% endhint %}
 
 ## 📥 Arquivos principais
@@ -31,10 +31,4 @@ Se você seguiu os passo então a instalação do hack foi um sucesso !
 {% hint style="info" %}
 Você pode aprender a instalar sua dll no  [Discord]()
 {% endhint %}
-
-## ✅ Finalizado
-
-Pronto, em alguns segundos ou minutos, o seu bot estará online.
-
-![](../../.gitbook/assets/image-29.png)
 
