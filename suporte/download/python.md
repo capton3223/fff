@@ -1,5 +1,5 @@
 ---
-description: Aprenda a hospedar seu bot em Python na DisCloud
+description: Aprenda como instalar seus hacker  corretamente !
 ---
 
 # 🐍Como Injetar Um .Exe Hacker Corretamente

@@ -1,5 +1,5 @@
 ---
-description: Aprenda a hospedar seu bot em JavaScript na DisCloud
+description: Aprenda como instalar seus hacker  corretamente !
 ---
 
 # 📦Como Injetar Uma Dll Hacker
@@ -10,14 +10,14 @@ Créditos ao [MagnataEffects](https://absolutproject.com) pelo tutorial apresent
 
 ## 📥 Arquivos principais
 
-Antes de tudo, **não envie todos os arquivos** de uma vez, você precisará colocar os arquivos do seu bot em uma pasta `.zip`. Não é necessário o upload dos arquivos `node_modules` e `package-lock.json`.
+## Process Hacker + DLL Hacker
 
-![](../../.gitbook/assets/image-36.png)
+## ✍faça o do Process Hacker [Downloads](https://processhacker.sourceforge.io/downloads.php)
 
-## ✍ Hospedando o seu bot
+![](../../.gitbook/assets/baixo-o-prosse-hacker.gif)
 
 {% hint style="info" %}
-Você pode aprender a hospedar seu bot na [versão website]() ou [Discord]()
+Você pode aprender a instalar sua dll no  [Discord]()
 {% endhint %}
 
 ## ✅ Finalizado

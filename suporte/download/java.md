@@ -1,5 +1,5 @@
 ---
-description: Aprenda a hospedar seu bot em Java na DisCloud
+description: Aprenda como instalar seus hacker  corretamente !
 ---
 
 # ☕Como instalar Um Mods Hacker na .minecraft
