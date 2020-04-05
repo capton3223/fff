@@ -17,5 +17,5 @@ Contamos com a colaboração de membros para se manter no ar e melhorar a qualid
 • ![:YouTube:](https://cdn.discordapp.com/emojis/430925378681569282.png?v=1) **`YouTube:`** [https://www.youtube.com/channel/capton](https://www.youtube.com/channel/UCV6PwoUmkN5l-zf-kL7k9lw)  
 • ![:discord:](https://cdn.discordapp.com/emojis/274789236421427200.png?v=1) **`Discord:`** [https://discordapp.com/invite/NVhVT8n**T5**](https://discordapp.com/invite/NVhVT8n)\*\*\*\*
 
-![](.gitbook/assets/p-1.gif)
+![](.gitbook/assets/ttttttttttttttttttt.png)
 
