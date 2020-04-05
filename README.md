@@ -14,9 +14,9 @@ Contamos com a colaboração de doadores para se manter no ar e melhorar a quali
 
 • ![:DiscordStaff:](https://cdn.discordapp.com/emojis/452955567795732480.png?v=1) **`Tech Support:`** support@discloudbot.com  
 • ![:TrustSafety:](https://cdn.discordapp.com/emojis/606720108164939776.png?v=1) **`Trust & Safety:`** abuse@discloudbot.com  
-• ![:Twitter:](https://cdn.discordapp.com/emojis/556968525261176842.png?v=1) **`Twitter:`** [**https://twitter.com/discloudbot**](https://twitter.com/discloudbot)  
-• ![:YouTube:](https://cdn.discordapp.com/emojis/430925378681569282.png?v=1) **`YouTube:`** [**https://youtube.com/c/pedroricardor**](https://youtube.com/c/pedroricardor)  
-• ![:discord:](https://cdn.discordapp.com/emojis/274789236421427200.png?v=1) **`Discord:`** [**https://discord.gg/CvxevT5**](https://discord.gg/CvxevT5)
+• ![:Twitter:](https://cdn.discordapp.com/emojis/556968525261176842.png?v=1) **`Twitter:`** [**https://twitter.com/leakbrasil**](https://twitter.com/CAPTONEDITADO)  
+• ![:YouTube:](https://cdn.discordapp.com/emojis/430925378681569282.png?v=1) **`YouTube:`** [https://www.youtube.com/channel/capton](https://www.youtube.com/channel/UCV6PwoUmkN5l-zf-kL7k9lw)  
+• ![:discord:](https://cdn.discordapp.com/emojis/274789236421427200.png?v=1) **`Discord:`** [https://discordapp.com/invite/NVhVT8n**T5**](https://discordapp.com/invite/NVhVT8n)\*\*\*\*
 
 ![](.gitbook/assets/1.png)
 
