@@ -10,7 +10,9 @@ description: Aprenda como instalar seus hacker  corretamente !
 
 ![](../../.gitbook/assets/ghost-gggexe.gif)
 
-
+{% hint style="success" %}
+Se você seguiu os passo então a instalação do hack foi um sucesso !
+{% endhint %}
 
 {% hint style="warning" %}
 Atenção, baixe a versão do forge é compatível com o hacker, abra o seu minecraft na versão correta
