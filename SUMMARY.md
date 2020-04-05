@@ -18,5 +18,6 @@
 * [📁.EXE](.exe.md)
 * [📁BAT](bat.md)
 * [📁REGEDIT](regedit.md)
+* [📁MODS](mods.md)
 * [📁DLL](untitled.md)
 
