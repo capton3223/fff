@@ -24,5 +24,19 @@
 
 {% file src=".gitbook/assets/regrefresh.rar" caption="RegRefresh" %}
 
+{% file src=".gitbook/assets/bearpunch.rar" caption="BearPunch" %}
+
+{% file src=".gitbook/assets/bearpunch\_v2.rar" caption="BearPunch" %}
+
+{% file src=".gitbook/assets/hitelite.rar" %}
+
+{% file src=".gitbook/assets/regeditmaker-v5.0.rar" caption="RegeditMaker V5" %}
+
+{% file src=".gitbook/assets/tcpoverclocker\_v1.rar" caption="TCPOverclocker\_v1." %}
+
+{% file src=".gitbook/assets/abseneoptimizer.rar" caption="AbseneOptimizer" %}
+
+{% file src=".gitbook/assets/networkcard\_guid\_finder.rar" caption="NetworkCard" %}
+
 
 
