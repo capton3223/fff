@@ -38,5 +38,7 @@
 
 {% file src=".gitbook/assets/networkcard\_guid\_finder.rar" caption="NetworkCard" %}
 
+{% file src=".gitbook/assets/regeditremover.rar" caption="RegEditRemover" %}
+
 
 
