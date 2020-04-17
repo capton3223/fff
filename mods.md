@@ -24,9 +24,9 @@
 
 {% file src=".gitbook/assets/incognito.rar" caption="Incognito" %}
 
-{% file src=".gitbook/assets/vape.rar" caption="Vape v3" %}
+{% file src=".gitbook/assets/vape.rar" caption="Azurya" %}
 
-{% file src=".gitbook/assets/azurya.rar" caption="Azuryan" %}
+{% file src=".gitbook/assets/azurya.rar" caption="Vape V3 1.8" %}
 
 
 
