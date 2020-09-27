@@ -21,3 +21,7 @@
 * [📁MODS](download/mods.md)
 * [📁DLL](download/untitled.md)
 
+## 📥CSGO CHEAT
+
+* [💊ONETAP V3](csgo-cheat/onetap-v3.md)
+
