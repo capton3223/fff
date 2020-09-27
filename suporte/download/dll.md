@@ -12,7 +12,7 @@ Créditos ao [Capton](https://www.youtube.com/channel/UCV6PwoUmkN5l-zf-kL7k9lw?v
 
 ## Process Hacker + DLL Hacker
 
-## ✍faça o [Download](https://processhacker.sourceforge.io/downloads.php) do Process Hacker 
+## ✍faça o [Download](https://processhacker.sourceforge.io/downloads.php) do Process Hacker
 
 ![](../../.gitbook/assets/baixo-o-prosse-hacker.gif)
 
@@ -20,7 +20,7 @@ Créditos ao [Capton](https://www.youtube.com/channel/UCV6PwoUmkN5l-zf-kL7k9lw?v
 
 ![](../../.gitbook/assets/extraisd.gif)
 
-🗃 agora abra seu Process Hacker e injetar a dll hack. 
+🗃 agora abra seu Process Hacker e injetar a dll hack.
 
 ![](../../.gitbook/assets/ggg.gif)
 
@@ -29,6 +29,6 @@ Se você seguiu os passo então a instalação do hack foi um sucesso !
 {% endhint %}
 
 {% hint style="info" %}
-Você pode aprender a instalar sua dll no  [Discord]()
+Você pode aprender a instalar sua dll no [Discord](dll.md)
 {% endhint %}
 

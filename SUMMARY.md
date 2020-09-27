@@ -9,15 +9,15 @@
   * [🐍Como Injetar Um .Exe Hacker Corretamente](suporte/download/python.md)
   * [☕Como instalar Um Mods Hacker na .minecraft](suporte/download/java.md)
 * [Discord](https://discordapp.com/invite/NVhVT8n)
-* [Doações](doacoes.md)
+* [Doações](suporte/doacoes.md)
 
 ## 📥Download
 
-* [📁GHOST VERSION](ghost-version.md)
-* [📁SOFTWARE](software.md)
-* [📁.EXE](.exe.md)
-* [📁BAT](bat.md)
-* [📁REGEDIT](regedit.md)
-* [📁MODS](mods.md)
-* [📁DLL](untitled.md)
+* [📁GHOST VERSION](download/ghost-version.md)
+* [📁SOFTWARE](download/software.md)
+* [📁.EXE](download/.exe.md)
+* [📁BAT](download/bat.md)
+* [📁REGEDIT](download/regedit.md)
+* [📁MODS](download/mods.md)
+* [📁DLL](download/untitled.md)
 
