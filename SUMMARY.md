@@ -26,5 +26,4 @@
 * [💊ONETAP V3](csgo-cheat/onetap-v3.md)
 * [💊NEON](csgo-cheat/neon.md)
 * [💊CATSENSE](csgo-cheat/catsense.md)
-* [💊BAIMLESS](csgo-cheat/baimless.md)
 
